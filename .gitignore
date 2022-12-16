@@ -1,0 +1,8 @@
+.env
+*.env
+!example.env
+.idea/
+.vscode/
+~*
+*.swp
+
